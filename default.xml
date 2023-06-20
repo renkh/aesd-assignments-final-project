@@ -9,7 +9,7 @@
   <!--
   Internal remotes
   -->
-  <remote name="aaeon"       alias="origin"  fetch="ssh://git@github.com:renkh/aaeon.git" />
+  <remote name="aaeon"       alias="origin"  fetch="ssh://git@github.com/renkh/aaeon" />
 
   <!--
   The manifest is the glue that incorporates all of the individual Yocto repos
