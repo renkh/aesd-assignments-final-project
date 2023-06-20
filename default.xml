@@ -15,7 +15,7 @@
   The manifest is the glue that incorporates all of the individual Yocto repos
   together with Google Repo
   -->
-  <project name="manifest-aaeon"     path="."              remote="aaeon"  groups="oe,tag"  revision="main" />
+  <project name="final-project-assignment-renkh"     path="."  remote="aaeon"  groups="oe,tag"  revision="main" />
 
   <!--
   Repos containing the bitbake recipes collected into meta layers
